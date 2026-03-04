@@ -194,8 +194,8 @@
                 "st0x"
             ],
             "extensions": {
-                "unwrappedAddress": "0x1f17523b147ccc2a2328c0f014f6d49c479ea063",
-                "legacyAddress": "0x6192539a2036c786aba3ca6a2222ff7a0f9c287e",
+                "unwrappedAddress": "0xfbde45df60249203b12148452fc77c3b5f811eb2",
+                "legacyAddress": "0xf8fdfd6a686346d34b3143fc23072aa45c9e8386",
                 "category": "ST0x",
                 "tradingViewSymbol": "AMEX:BMNR",
                 "tradingViewMarket": "america"
@@ -212,8 +212,8 @@
                 "st0x"
             ],
             "extensions": {
-                "unwrappedAddress": "0xfbde45df60249203b12148452fc77c3b5f811eb2",
-                "legacyAddress": "0xf8fdfd6a686346d34b3143fc23072aa45c9e8386",
+                "unwrappedAddress": "0x1f17523b147ccc2a2328c0f014f6d49c479ea063",
+                "legacyAddress": "0x6192539a2036c786aba3ca6a2222ff7a0f9c287e",
                 "category": "ST0x",
                 "tradingViewSymbol": "AMEX:PPLT",
                 "tradingViewMarket": "america"
@@ -395,8 +395,8 @@
                 "st0x"
             ],
             "extensions": {
-                "unwrappedAddress": "0x1f17523b147ccc2a2328c0f014f6d49c479ea063",
-                "legacyAddress": "0x6192539a2036c786aba3ca6a2222ff7a0f9c287e",
+                "unwrappedAddress": "0xfbde45df60249203b12148452fc77c3b5f811eb2",
+                "legacyAddress": "0xf8fdfd6a686346d34b3143fc23072aa45c9e8386",
                 "category": "ST0x",
                 "tradingViewSymbol": "AMEX:BMNR",
                 "tradingViewMarket": "america"
@@ -413,8 +413,8 @@
                 "st0x"
             ],
             "extensions": {
-                "unwrappedAddress": "0xfbde45df60249203b12148452fc77c3b5f811eb2",
-                "legacyAddress": "0xf8fdfd6a686346d34b3143fc23072aa45c9e8386",
+                "unwrappedAddress": "0x1f17523b147ccc2a2328c0f014f6d49c479ea063",
+                "legacyAddress": "0x6192539a2036c786aba3ca6a2222ff7a0f9c287e",
                 "category": "ST0x",
                 "tradingViewSymbol": "AMEX:PPLT",
                 "tradingViewMarket": "america"
