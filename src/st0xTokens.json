@@ -26,7 +26,7 @@
             "decimals": 18,
             "name": "Wrapped NVIDIA Corporation ST0x",
             "symbol": "wtNVDA",
-            "logoURI": "https://tokens.st0x.com/images/NVDA.png",
+            "logoURI": "https://st0x.io/images/NVDA.png",
             "tags": [
                 "st0x"
             ],
@@ -44,7 +44,7 @@
             "decimals": 18,
             "name": "Wrapped Amazon.com Inc ST0x",
             "symbol": "wtAMZN",
-            "logoURI": "https://tokens.st0x.com/images/AMZN.png",
+            "logoURI": "https://st0x.io/images/AMZN.png",
             "tags": [
                 "st0x"
             ],
@@ -62,7 +62,7 @@
             "decimals": 18,
             "name": "Wrapped Tesla Inc ST0x",
             "symbol": "wtTSLA",
-            "logoURI": "https://tokens.st0x.com/images/TSLA.png",
+            "logoURI": "https://st0x.io/images/TSLA.png",
             "tags": [
                 "st0x"
             ],
@@ -80,7 +80,7 @@
             "decimals": 18,
             "name": "Wrapped MicroStrategy Incorporated ST0x",
             "symbol": "wtMSTR",
-            "logoURI": "https://tokens.st0x.com/images/MSTR.png",
+            "logoURI": "https://st0x.io/images/MSTR.png",
             "tags": [
                 "st0x"
             ],
@@ -98,7 +98,7 @@
             "decimals": 18,
             "name": "Wrapped iShares Gold Trust ST0x",
             "symbol": "wtIAU",
-            "logoURI": "https://tokens.st0x.com/images/IAU.png",
+            "logoURI": "https://st0x.io/images/IAU.png",
             "tags": [
                 "st0x"
             ],
@@ -116,7 +116,7 @@
             "decimals": 18,
             "name": "Wrapped Coinbase Global Inc ST0x",
             "symbol": "wtCOIN",
-            "logoURI": "https://tokens.st0x.com/images/COIN.png",
+            "logoURI": "https://st0x.io/images/COIN.png",
             "tags": [
                 "st0x"
             ],
@@ -134,7 +134,7 @@
             "decimals": 18,
             "name": "Wrapped SPDR Portfolio S&P 500 ETF ST0x",
             "symbol": "wtSPYM",
-            "logoURI": "https://tokens.st0x.com/images/SPLG.png",
+            "logoURI": "https://st0x.io/images/SPLG.png",
             "tags": [
                 "st0x"
             ],
@@ -153,7 +153,7 @@
             "decimals": 18,
             "name": "Wrapped abrdn Physical Silver Shares ETF ST0x",
             "symbol": "wtSIVR",
-            "logoURI": "https://tokens.st0x.com/images/SIVR.png",
+            "logoURI": "https://st0x.io/images/SIVR.png",
             "tags": [
                 "st0x"
             ],
@@ -171,7 +171,7 @@
             "decimals": 18,
             "name": "Wrapped Circle Internet Group Inc ST0x",
             "symbol": "wtCRCL",
-            "logoURI": "https://tokens.st0x.com/images/CRCL.png",
+            "logoURI": "https://st0x.io/images/CRCL.png",
             "tags": [
                 "st0x"
             ],
@@ -189,7 +189,7 @@
             "decimals": 18,
             "name": "Wrapped Bitmine Immersion Technologies, Inc ST0x",
             "symbol": "wtBMNR",
-            "logoURI": "https://tokens.st0x.com/images/BMNR.png",
+            "logoURI": "https://st0x.io/images/BMNR.png",
             "tags": [
                 "st0x"
             ],
@@ -207,7 +207,7 @@
             "decimals": 18,
             "name": "Wrapped abrdn Physical Platinum Shares ETF ST0x",
             "symbol": "wtPPLT",
-            "logoURI": "https://tokens.st0x.com/images/SIVR.png",
+            "logoURI": "https://st0x.io/images/SIVR.png",
             "tags": [
                 "st0x"
             ],
@@ -227,7 +227,7 @@
             "decimals": 18,
             "name": "Wrapped NVIDIA Corporation ST0x",
             "symbol": "wtNVDA",
-            "logoURI": "https://tokens.st0x.com/images/NVDA.png",
+            "logoURI": "https://st0x.io/images/NVDA.png",
             "tags": [
                 "st0x"
             ],
@@ -245,7 +245,7 @@
             "decimals": 18,
             "name": "Wrapped Amazon.com Inc ST0x",
             "symbol": "wtAMZN",
-            "logoURI": "https://tokens.st0x.com/images/AMZN.png",
+            "logoURI": "https://st0x.io/images/AMZN.png",
             "tags": [
                 "st0x"
             ],
@@ -263,7 +263,7 @@
             "decimals": 18,
             "name": "Wrapped Tesla Inc ST0x",
             "symbol": "wtTSLA",
-            "logoURI": "https://tokens.st0x.com/images/TSLA.png",
+            "logoURI": "https://st0x.io/images/TSLA.png",
             "tags": [
                 "st0x"
             ],
@@ -281,7 +281,7 @@
             "decimals": 18,
             "name": "Wrapped MicroStrategy Incorporated ST0x",
             "symbol": "wtMSTR",
-            "logoURI": "https://tokens.st0x.com/images/MSTR.png",
+            "logoURI": "https://st0x.io/images/MSTR.png",
             "tags": [
                 "st0x"
             ],
@@ -299,7 +299,7 @@
             "decimals": 18,
             "name": "Wrapped iShares Gold Trust ST0x",
             "symbol": "wtIAU",
-            "logoURI": "https://tokens.st0x.com/images/IAU.png",
+            "logoURI": "https://st0x.io/images/IAU.png",
             "tags": [
                 "st0x"
             ],
@@ -317,7 +317,7 @@
             "decimals": 18,
             "name": "Wrapped Coinbase Global Inc ST0x",
             "symbol": "wtCOIN",
-            "logoURI": "https://tokens.st0x.com/images/COIN.png",
+            "logoURI": "https://st0x.io/images/COIN.png",
             "tags": [
                 "st0x"
             ],
@@ -335,7 +335,7 @@
             "decimals": 18,
             "name": "Wrapped SPDR Portfolio S&P 500 ETF ST0x",
             "symbol": "wtSPYM",
-            "logoURI": "https://tokens.st0x.com/images/SPLG.png",
+            "logoURI": "https://st0x.io/images/SPLG.png",
             "tags": [
                 "st0x"
             ],
@@ -354,7 +354,7 @@
             "decimals": 18,
             "name": "Wrapped abrdn Physical Silver Shares ETF ST0x",
             "symbol": "wtSIVR",
-            "logoURI": "https://tokens.st0x.com/images/SIVR.png",
+            "logoURI": "https://st0x.io/images/SIVR.png",
             "tags": [
                 "st0x"
             ],
@@ -372,7 +372,7 @@
             "decimals": 18,
             "name": "Wrapped Circle Internet Group Inc ST0x",
             "symbol": "wtCRCL",
-            "logoURI": "https://tokens.st0x.com/images/CRCL.png",
+            "logoURI": "https://st0x.io/images/CRCL.png",
             "tags": [
                 "st0x"
             ],
@@ -390,7 +390,7 @@
             "decimals": 18,
             "name": "Wrapped Bitmine Immersion Technologies, Inc ST0x",
             "symbol": "wtBMNR",
-            "logoURI": "https://tokens.st0x.com/images/BMNR.png",
+            "logoURI": "https://st0x.io/images/BMNR.png",
             "tags": [
                 "st0x"
             ],
@@ -408,7 +408,7 @@
             "decimals": 18,
             "name": "Wrapped abrdn Physical Platinum Shares ETF ST0x",
             "symbol": "wtPPLT",
-            "logoURI": "https://tokens.st0x.com/images/SIVR.png",
+            "logoURI": "https://st0x.io/images/SIVR.png",
             "tags": [
                 "st0x"
             ],
